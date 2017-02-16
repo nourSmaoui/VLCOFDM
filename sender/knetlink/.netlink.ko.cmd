@@ -1,0 +1,1 @@
+cmd_/home/machinekit/nour/ofdm/knetlink/netlink.ko := ld -EL -r  -T /usr/src/linux-headers-3.8.13-xenomai-r78/scripts/module-common.lds --build-id  -o /home/machinekit/nour/ofdm/knetlink/netlink.ko /home/machinekit/nour/ofdm/knetlink/netlink.o /home/machinekit/nour/ofdm/knetlink/netlink.mod.o

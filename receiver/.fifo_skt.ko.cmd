@@ -1,0 +1,1 @@
+cmd_/home/machinekit/nour/fifo_skt.ko := ld -EL -r  -T /usr/src/linux-headers-3.8.13xenomai-bone53/scripts/module-common.lds --build-id  -o /home/machinekit/nour/fifo_skt.ko /home/machinekit/nour/fifo_skt.o /home/machinekit/nour/fifo_skt.mod.o
